@@ -8,4 +8,7 @@ A faire avant le **17 Novembre**:
 
 Article "Imputation de données manquantes": https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-app-idm.pdf
 
+TP CNAM contentant du code Python : http://cedric.cnam.fr/vertigo/Cours/ml/tpDonneesManquantes.html
+Peut être intéressant pour le KNN et l'imputation par centre de groupe suivant K-means.
+
 
